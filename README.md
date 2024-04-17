@@ -1,2 +1,2 @@
 # Web-Salon-Beauty-
-beauty salon page for evolve
+System created with php backend, for the administration and client view of a beauty salon
